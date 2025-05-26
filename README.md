@@ -29,5 +29,4 @@ A simple and stylish web-based music player built with HTML, CSS, and JavaScript
 
 ---
 
-## File Structure
 
